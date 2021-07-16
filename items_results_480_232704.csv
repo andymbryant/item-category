@@ -1,0 +1,484 @@
+text,source_doc,expected,actual,score
+odwalla blue protein,Beverages,Frozen organic fruit,0.47832735962348444
+sd winston box cigarettes,Tobacco and smoking products and substitutes,Tobacco and smoking products and substitutes,0.5505209840527776
+vegan mozzerella shredded lb cheeses,Dairy products and eggs,Canned or jarred organic vegetables,0.6721786034538434
+earth balance soy free butter spread retail dairy alternatives retail,Dairy products and eggs,Dairy products and eggs,0.7824804117624253
+kohlrabi vegetables,Fresh vegetables,Fresh vegetables,0.7631053901869386
+race paper wrapper bamboo brand,Prepared and preserved foods,Paper products,0.7083165675076472
+bonito del norte olive oil seafood,Edible oils and fats,Seafood,0.6298237692310404
+string bean,Fresh vegetables,Nuts and seeds,0.45982256503677194
+nuts almonds slices blanched grocery,Nuts and seeds,Dried vegetables,0.7807463204719899
+baking soda,Bread and bakery products,Bread and bakery products,0.6389675039141461
+ct pasta,Prepared and preserved foods,Bread and bakery products,0.5195225825992937
+sliced beets,Canned or jarred vegetables,Dried vegetables,0.7422591167927555
+si,Seasonings and preservatives,Non motorized cycles,0.2006615724624363
+cheese muenster slic,Dairy products and eggs,Canned or jarred vegetables,0.4201510122001065
+small cucumber bushel vegetables,Fresh vegetables,Fresh vegetables,0.8336272177170607
+cg ps eyeliner int black,Personal care products,"Drugs affecting the ears, eye, nose and skin",0.3520404157270412
+crackers sourdough sel gris specialty,Bread and bakery products,Bread and bakery products,0.62331658844072
+golden fz,Seafood,Fresh cut rose ,0.2815085898996003
+post honey bnc ots stb,Cereal and pulse products,Nuts and seeds,0.28720083752284353
+select white paper con,Paper products,Paper products,0.6292635567054098
+packer chicken airline,Meat and poultry products,Meat and poultry products,0.5773675497230106
+y style potatoe peeler paper non food items,Domestic kitchenware and kitchen supplies,Non edible animal products,0.6691255992205908
+yukon gold fries skin case potatoes,Prepared and preserved foods,Frozen vegetables,0.6666238863603956
+asparagus jumbo,Fresh vegetables,Dried vegetables,0.654248804029738
+cherries stm condiments,Fresh fruits,Canned or jarred fruit,0.6518802068647288
+limes ct lb splits,Fresh fruits,Dried fruit,0.5008062575794046
+fresh sliced potato lb frozen groceries,Frozen vegetables,Frozen vegetables,0.8606442378025267
+bic blue med pt,Office supplies,"Drugs affecting the ears, eye, nose and skin",0.32527312640523415
+black sea bass bass,Seafood,Fresh cut blooms of high species or variety count flowers,0.5120641538225044
+spag rings w meatballs,Meat and poultry products,Frozen vegetables,0.4539108435402397
+garlic,Fresh vegetables,Dried vegetables,0.7491550384212099
+orange thunder cleaner paper non food items,Cleaning and janitorial supplies,Non edible animal products,0.7434637256269943
+,Personal care products,Machinings,1.0
+anti microbial hand lotion,Personal care products,Anti infective drugs,0.6368270264455786
+espresso fine drip ground grocery base bev cereal cookie,Prepared and preserved foods,Frozen organic fruit,0.709606767121568
+truffle slicer miscellaneous,Domestic kitchenware and kitchen supplies,Bread and bakery products,0.4955997610106171
+orange cara cara fruits,Fresh fruits,Fresh fruits,0.5637306006177315
+day fruit bites men,Prepared and preserved foods,Fresh fruits,0.6942224839191932
+drinking straw accessories,Industrial food and beverage equipment,Camping and outdoor equipment and accessories,0.6397073573263086
+spinach bunched california,Fresh vegetables,Dried vegetables,0.6245316027706981
+cannelini beans dry,Canned or jarred vegetables,Dried vegetables,0.6786398008009353
+ob sugg sub wi swisher banana smash tobacco cigars,Tobacco and smoking products and substitutes,Tobacco and smoking products and substitutes,0.5342116381916057
+ez mix cycle oil auto misc,Automotive specialty tools,Oil and gas extraction and production enhancement services,0.6251870156698099
+agave nectar groceries,Prepared and preserved foods,Pureed fruit,0.6607141127324243
+loin sk co,Seafood,Meat and poultry products,0.32977647801083165
+home ne clam,Canned or jarred vegetables,Seafood,0.4496903560932614
+sausage rabbit white wine oz fresh pork,Meat and poultry products,Fresh vegetables,0.7604376151090274
+deli roast beef medium fc food service cooler,Meat and poultry products,Meat and poultry products,0.7268361127488645
+hot sausage lb meat seafood poultry turkey,Meat and poultry products,Meat and poultry products,0.8280190846705876
+utensils teaspoon plastic paper,Domestic kitchenware and kitchen supplies,Paper materials,0.6391580507693222
+regular french fries food service frozen,Frozen vegetables,Frozen vegetables,0.7323276186355485
+dressing mayonnaise vegan,Canned or jarred vegetables,Canned or jarred organic vegetables,0.6705799264234845
+citra sol cleaner degreaser cleaning supplies,Cleaning and janitorial supplies,Cleaning and janitorial supplies,0.7320719515704883
+oo brd,Bread and bakery products,Forgings,0.07887294213530636
+beef stew lb meat,Meat and poultry products,Meat and poultry products,0.7436511630545837
+karat beverage napkin black paper goods napkins,Domestic kitchenware and kitchen supplies,Paper products,0.6753280595552862
+cucumber euro,Fresh vegetables,Fresh cut rose ,0.5587358222051222
+beef cheek meat ck beef,Meat and poultry products,Meat and poultry products,0.7432780697731673
+bobs gf bread mix,Bread and bakery products,Bread and bakery products,0.6509538792134895
+chicken penne,Meat and poultry products,Canned or jarred vegetables,0.6491923648386159
+super heavy tomato paste,Canned or jarred vegetables,Fresh vegetables,0.6791135435318697
+liguria oil oil vinegar,Edible oils and fats,Edible oils and fats,0.6413408918220458
+lb driscoll strawberry,Fresh fruits,Pureed fruit,0.5176379632780496
+scotch packaging tape,Adhesives and sealants,Packaging materials,0.6563229897661134
+eucerin lotion,Personal care products,Dyeing and tanning extracts,0.4138226779388821
+contract,Fresh vegetables,Specialized trade construction and maintenance services,0.5458120984147001
+drinks gatorade grocery,Beverages,Beverages,0.7286689603232174
+quest bar b day cake,Bread and bakery products,Target and table games and equipment,0.5615731964660481
+aunt jemima syrup db grocery,Prepared and preserved foods,Canned or jarred fruit,0.539000134979613
+cold cups oz,Domestic kitchenware and kitchen supplies,Frozen fruit,0.6157767813784637
+pork chorizo lbs,Meat and poultry products,Dried vegetables,0.6172391635563268
+ob sugg sub ice cream food service frozen,Dairy products and eggs,Frozen fruit,0.7018432929836146
+golden mx lb,Seafood,Fresh cut rose ,0.39333497573666665
+cotton mophead oz food serv paper supplies,Domestic kitchenware and kitchen supplies,Paper products,0.6658022289552022
+ginger ground,Dried vegetables,Dried vegetables,0.7040760822905849
+nd montclair blue cigarettes,Tobacco and smoking products and substitutes,Tobacco and smoking products and substitutes,0.49095942106947077
+prps,Cleaning and janitorial supplies,Refractories,0.1620660534289667
+dashi powder edible,Dried vegetables,Dried vegetables,0.6726757846946023
+tomato diced,Canned or jarred vegetables,Canned or jarred vegetables,0.7332642059179348
+mozzarella skim lb cheese,Dairy products and eggs,Frozen vegetables,0.6519380577910554
+car tree,Automotive specialty tools,Vehicle bodies and trailers,0.56776356821918
+corned beef meat poultry,Meat and poultry products,Meat and poultry products,0.8407945617729037
+round fiber plates natural eco friendly products,Domestic kitchenware and kitchen supplies,Non edible animal products,0.7395579685832601
+cake box,Bread and bakery products,Bread and bakery products,0.5954216689501539
+mozzarella fresh balls oz,Dairy products and eggs,Fresh vegetables,0.7112739112995383
+wt ct meaty,Meat and poultry products,Dried organic fruit,0.3538264252539784
+pepper pablano,Fresh vegetables,Canned or jarred vegetables,0.48462249196018964
+dried cranberries,Fresh fruits,Dried fruit,0.843037732273208
+seasoned loop fries redstone c dry goods,Meat and poultry products,Frozen organic vegetables,0.6431439488528816
+jbs strips prime beef,Meat and poultry products,Meat and poultry products,0.5998711051228781
+butan gas,Gaseous fuels and additives,Oil and gas drilling and exploration equipment,0.5458267273722681
+organic sour cream,Dairy products and eggs,Frozen organic fruit,0.8259483757631566
+olives geen termite di,Fresh vegetables,Dried fruit,0.4511408400171874
+dough ball oz groceries,Bread and bakery products,Bread and bakery products,0.6312945619956285
+oz paper hot cup white paper non food items,Domestic kitchenware and kitchen supplies,Paper products,0.7289881970398961
+leeks,Fresh vegetables,Dried vegetables,0.6065840433256057
+dressing creamy caesar packets ck grocery,Prepared and preserved foods,Fresh vegetables,0.6343224390009702
+tamari mex glas soft drinks,Beverages,Canned or jarred organic fruit,0.558198740044047
+nv oats n honey,Prepared and preserved foods,Dried fruit,0.620908271433165
+dove men shw fm cln,Personal care products,Earth and stone,0.24589757086136302
+eggs large org carton,Dairy products and eggs,Dairy products and eggs,0.6623395806077961
+golden,Seafood,Fresh cut rose ,0.509332962246436
+ketchup,Prepared and preserved foods,Canned or jarred vegetables,0.5850615155892578
+lemon extract pastry,Canned or jarred fruit,Dried fruit,0.725664920329954
+sunglasses camo hbc misc toys,Clothing,Clothing,0.5974103342350054
+sliced baby bella mushroom oz,Fresh vegetables,Canned or jarred organic fruit,0.6366405484000487
+ob sugg sub baby wipes fresh scent grocery food items,Personal care products,Organic fresh vegetables,0.6855134353137313
+golden ptn block fish,Seafood,Dried cut blooms of high species or variety count flowers,0.5514756930384246
+chipolte cinnamon rub oz spices dressings,Dried vegetables,Seasonings and preservatives,0.691752766390057
+peach slices frozen,Fresh fruits,Frozen fruit,0.8580213226530937
+kiwi,Fresh fruits,Pureed fruit,0.5439685309888349
+eco salad deli containers rectangular w lid oz eco products,Domestic kitchenware and kitchen supplies,Organic fresh vegetables,0.6610217152707879
+ic bars,Dairy products and eggs,Fabricated bar stock assemblies,0.5042975811780148
+sardines pepper seafood,Seafood,Seafood,0.8156692626446952
+wheat bread sl mf,Bread and bakery products,Bread and bakery products,0.6419873704485346
+tc kippered steak spicy snacks seeds chips bar,Meat and poultry products,Fresh vegetables,0.6949396562837783
+dove shea body wash,Personal care products,"Drugs affecting the ears, eye, nose and skin",0.5698105139556465
+pink snappers snapper,Seafood,Fresh cut blooms of high species or variety count flowers,0.41840886806029043
+victoria taylor new orleans se,Personal care products,Commercial sports,0.4109818373453099
+arctic char fish,Seafood,Frozen vegetables,0.5361420629984858
+lids pantry supplies,Domestic kitchenware and kitchen supplies,Domestic kitchenware and kitchen supplies,0.7139140141310246
+mc chicken corn bread pie,Bread and bakery products,Bread and bakery products,0.7176976186733002
+pickles dill death garlic grocery,Canned or jarred fruit,Canned or jarred vegetables,0.7468613095342804
+depot spanish onion,Fresh vegetables,Dried vegetables,0.5461471604555598
+chicken oil,Canned or jarred vegetables,Fresh vegetables,0.699296047669652
+ibp baby ribs frozen groceries,Meat and poultry products,Frozen vegetables,0.7206911186167562
+morello cherry puree pastry,Bread and bakery products,Pureed fruit,0.7595816632643354
+dolphin shrimp,Seafood,Seafood,0.669314461929419
+brown basmati rice raw superfoods,Cereal and pulse products,Dried organic vegetables,0.7541908306185809
+jf lb loaf pans,Domestic kitchenware and kitchen supplies,Bread and bakery products,0.5179256797153896
+robust maple syrup sweeteners,Chocolate and sugars and sweeteners and confectionary products,Chocolate and sugars and sweeteners and confectionary products,0.7689617622319924
+clams shellfish,Adhesives and sealants,Seafood,0.7190187621499803
+hungarian peppers oil tomatoes vegetables,Canned or jarred vegetables,Dried vegetables,0.8474338982069677
+field flowers,Cleaning and janitorial supplies,Fresh cut blooms of high species or variety count flowers,0.7486417490656958
+chk ssg gumbo,Prepared and preserved foods,Seafood,0.26241159950034
+hml b l l sodium,Meat and poultry products,Fluid and gas distribution,0.29820719314684435
+chocolate,Prepared and preserved foods,Chocolate and sugars and sweeteners and confectionary products,0.7258080966402131
+sour patch kids oz gum cough drops candy,Chocolate and sugars and sweeteners and confectionary products,Dried fruit,0.6427962349616007
+watercress vegetables,Fresh vegetables,Dried vegetables,0.8377679425498574
+taco food service frozen,Prepared and preserved foods,Food and nutrition services,0.7576130529244396
+fresh,Fresh vegetables,Fresh vegetables,0.8718844038306913
+coffee grd hse blend med roast beverages,Live animals,Beverages,0.6164736401835577
+milk soy series,Beverages,Dairy products and eggs,0.7316078044706731
+chorizo colombiano lb fresh pork,Meat and poultry products,Fresh vegetables,0.6646630953941326
+creamer caramel retail cooler,Seasonings and preservatives,Chocolate and sugars and sweeteners and confectionary products,0.6446180153364628
+hatfield pork loins pork,Meat and poultry products,Meat and poultry products,0.5886067872144105
+lb pilsbury yellow cake mix flour pasta starches,Chocolate and sugars and sweeteners and confectionary products,Dried vegetables,0.7182576847160105
+cabbage nappa vegetable,Fresh vegetables,Dried vegetables,0.7260171359140183
+calabrese hot mold,Fresh vegetables,Fresh vegetables,0.4570671076110561
+provisions lugar bacon,Prepared and preserved foods,Prepared and preserved foods,0.421631595331662
+tuna yellowfin r f loin tuna,Seafood,Seafood,0.5687458370298448
+hogfish fillet butterfly,Seafood,Seafood,0.3852341479800397
+bio degradable takeout container non edible,Domestic kitchenware and kitchen supplies,Non edible animal products,0.7105912343407147
+gs breast strip oz food service frozen,Meat and poultry products,Frozen organic fruit,0.6971773694998534
+cotto w herbs lb plt,Meat and poultry products,Dried vegetables,0.49499738068273097
+tates tates oatmeal cookie,Chocolate and sugars and sweeteners and confectionary products,Pureed fruit,0.45614219493274094
+nacho cheese sauce food service dry,Seasonings and preservatives,Fresh vegetables,0.7509255956251896
+potato red b bag,Fresh vegetables,Dried organic fruit,0.6379821304497287
+clear hinged clamshell container,Domestic kitchenware and kitchen supplies,Containers and storage,0.6482375129564854
+gourmet,Fresh fruits,Restaurants and catering,0.6368532704605863
+sam harvest soy curl jerky snack foods,Prepared and preserved foods,Frozen organic vegetables,0.7276715442640307
+contract,Fresh vegetables,Specialized trade construction and maintenance services,0.5458120984147001
+lumb crab meat fresh crab,Seafood,Seafood,0.7319794437487757
+hanger steaks bulk choice,Meat and poultry products,Meat and poultry products,0.6409299249336045
+va slim gold cigarettes,Tobacco and smoking products and substitutes,Tobacco and smoking products and substitutes,0.5520325621014056
+fishermans platter brd shrimp scallops flounder food service frozen,Seafood,Seafood,0.7712486383761967
+ia general white snus tobacco cigars,Tobacco and smoking products and substitutes,Tobacco and smoking products and substitutes,0.7446090748630957
+cleaning hand soap,Cleaning and janitorial supplies,Industrial laundry and dry cleaning equipment,0.7536231489848478
+roll rib eye meat seafood poultry turkey,Meat and poultry products,Meat and poultry products,0.8149331346676391
+cake board silver non edible,Domestic kitchenware and kitchen supplies,Non edible animal products,0.7465989949526647
+patty wax paper paper non food items,Domestic kitchenware and kitchen supplies,Paper products,0.7910419364845084
+squash acorn squash,Fresh vegetables,Pureed fruit,0.6045007908824518
+ss costa rica refill,Beverages,Recreation and playground and swimming and spa equipment and supplies,0.3379519213642559
+malt diastatic powder,Bread and bakery products,Chocolate and sugars and sweeteners and confectionary products,0.5123856650843777
+duster unscented,Cleaning and janitorial supplies,Lubricants and oils and greases and anti corrosives,0.409939172519647
+wi winston red box cigarettes,Tobacco and smoking products and substitutes,Tobacco and smoking products and substitutes,0.5854394110030456
+mom cocoa dyno bites,Cereal and pulse products,Nuts and seeds,0.5102374173413832
+bags poly clear,Containers and storage,Luggage and handbags and packs and cases,0.6731211807708657
+mr clean rinse,Cleaning and janitorial supplies,Industrial laundry and dry cleaning equipment,0.6096853505812608
+swt rolls cinnamon iced retail frozen food,Bread and bakery products,Frozen fruit,0.8143879381394146
+sugar packets p c sauces condiments,Chocolate and sugars and sweeteners and confectionary products,Chocolate and sugars and sweeteners and confectionary products,0.6815979391872379
+eco products ozo coffee oz insulated hot cups custom print,Beverages,Industrial food and beverage equipment,0.6252412699346132
+mix vegetable groceries,Canned or jarred vegetables,Organic fresh vegetables,0.788496580357067
+dressing french original grocery food items,Seasonings and preservatives,Bread and bakery products,0.7400794140656102
+clearasil crm,Personal care products,Accounting and bookkeeping services,0.2678189223557375
+frozen iqf red rasperry frozen,Frozen fruit,Frozen fruit,0.7414301855909935
+hebrew national hotdog lb,Meat and poultry products,Bread and bakery products,0.4181672349014175
+butter clarified lb tubs bc plt,Dairy products and eggs,Canned or jarred organic fruit,0.5643481042778016
+vegenaise organic dairy alternatives bulk,Dairy products and eggs,Frozen organic vegetables,0.7504165886124841
+squash green medium lb,Fresh fruits,Dried vegetables,0.6788646467957379
+mix brownie gf lbs,Bread and bakery products,Nuts and seeds,0.49836590077326587
+lof blk frst,Meat and poultry products,Refractories,0.1555985302521829
+hug cln bby wps,Personal care products,Refractories,0.18541102088290295
+bar s pack corn dogs,Prepared and preserved foods,Dairy products and eggs,0.609568961593048
+piece handle bucket food service dry,Containers and storage,Industrial laundry and dry cleaning equipment,0.7494298846897286
+bags clear poly fda m paper,Containers and storage,Paper materials,0.6710996915810936
+soup beef vegetable grocery food items,Prepared and preserved foods,Frozen organic vegetables,0.8144352706600155
+peanuts unsalted nuts seeds,Nuts and seeds,Nuts and seeds,0.8924749747408586
+sd marlboro bold ice cigarettes,Tobacco and smoking products and substitutes,Tobacco and smoking products and substitutes,0.5692174250198982
+mc organic wht pep,Seasonings and preservatives,Organic fresh fruits,0.520269030080741
+potatoes idaho,Fresh vegetables,Frozen vegetables,0.5996317375184141
+seafood,Seafood,Seafood,1.0
+ph aloe dsh,Cleaning and janitorial supplies,Dyeing and tanning extracts,0.4149573959151546
+farro flour beans grains,Bread and bakery products,Dried vegetables,0.7586118544714656
+mayonnaise,Dairy products and eggs,Canned or jarred vegetables,0.605626638859281
+oz lobster tail oz frozen seafood,Seafood,Frozen vegetables,0.6804835267947071
+admiration dijon mustard spices dressings,Seasonings and preservatives,Seasonings and preservatives,0.6655404572803298
+oyster brooksville oyster,Seafood,Seafood,0.5239793846697182
+fuji apple fruit,Fresh fruits,Dried fruit,0.7383214579113484
+oz synthetic mop head non edible,Cleaning and janitorial supplies,Non edible animal products,0.7177697429478742
+daily bacon diced lb meat seafood poultry turkey,Meat and poultry products,Meat and poultry products,0.7939078378533903
+brussel sprout,Fresh vegetables,Dried vegetables,0.5446643075994689
+snapper thai fillet skin snapper,Seafood,Seafood,0.5743069051683102
+parsley bunch,Seasonings and preservatives,Dried vegetables,0.6768653045151302
+wi maverick menthol box cigarettes,Tobacco and smoking products and substitutes,Tobacco and smoking products and substitutes,0.6453390831126197
+tc omeprazole bottle,Personal care products,Hematolic drugs,0.39087818586499057
+perdue browned turkey provisions,Meat and poultry products,Frozen vegetables,0.5029173825657981
+clear glass bottle stopper glassware,Packaging materials,Doors and windows and glass,0.6441529317754326
+orange slush flavor food service dry,Seasonings and preservatives,Frozen organic fruit,0.747326232305376
+eggplant italian,Fresh fruits,Fresh vegetables,0.5999469453954208
+catering trays black flat non edible,Restaurants and catering,Non edible animal products,0.7279701367915068
+gpc silver men cigarettes,Tobacco and smoking products and substitutes,Tobacco and smoking products and substitutes,0.5810811958451879
+kozy shack tapioca,Prepared and preserved foods,Pureed fruit,0.32028175882273885
+lq,Cleaning and janitorial supplies,Colorants,0.09307416351544814
+sd loon maxx mango iced tobacco cigars,Tobacco and smoking products and substitutes,Tobacco and smoking products and substitutes,0.5548307751044006
+plums large black,Fresh fruits,Dried cut blooms of high species or variety count flowers,0.6655325299856826
+strawberry,Fresh fruits,Frozen fruit,0.6851789945322815
+pan release spray food service dry,Domestic kitchenware and kitchen supplies,Industrial laundry and dry cleaning equipment,0.7239599937775427
+bleach,Cleaning and janitorial supplies,Dyeing and tanning extracts,0.43685411222816645
+nd loon maxx lush iced tobacco cigars,Tobacco and smoking products and substitutes,Tobacco and smoking products and substitutes,0.574381869588239
+combo box trays boxes,Containers and storage,Containers and storage,0.6342174295988022
+catfish dressed fingerlings,Seafood,Fresh vegetables,0.4558484491562496
+cheddar broccoli bake,Prepared and preserved foods,Dried vegetables,0.693018382101412
+snicker white share gum cough drops candy,Chocolate and sugars and sweeteners and confectionary products,"Drugs affecting the ears, eye, nose and skin",0.6252399976646906
+sous vide mashed swt pto,Prepared and preserved foods,Pureed fruit,0.3991882690496925
+dill herbs,Seasonings and preservatives,Dried vegetables,0.7366313287319807
+hm dbl chk bwl chk bcn rn,Prepared and preserved foods,Refractories,0.13871295458480531
+cont hinged deli oz sk,Prepared and preserved foods,Frozen fruit,0.4376303026212116
+aquarius body lotion,Personal care products,"Drugs affecting the ears, eye, nose and skin",0.5455093344198607
+digiorno che,Prepared and preserved foods,Non motorized cycles,0.20972063830034038
+acai puree mix sweetened frozen,Pureed fruit,Pureed fruit,0.8114717596759331
+sugar free red bull groceries,Beverages,Frozen organic fruit,0.6655090208159787
+granulated sugar,Chocolate and sugars and sweeteners and confectionary products,Chocolate and sugars and sweeteners and confectionary products,0.7025935740775663
+,Fresh vegetables,Machinings,1.0
+stone sweet honey mustard cs,Prepared and preserved foods,Dried cut roses ,0.699010202893658
+squid frozen octopus squid,Seafood,Frozen vegetables,0.6022582333488846
+aluminum pan,Domestic kitchenware and kitchen supplies,Machined raw stock,0.6012393339234292
+holy raspberry syrup syrups sauces,Prepared and preserved foods,Pureed fruit,0.7164369037837628
+organic salmon,Seafood,Organic fresh vegetables,0.8384952752630089
+lge amz cinnamon coffee cake muffin,Bread and bakery products,Pureed fruit,0.5956302865080132
+sea leg supreme frozen seafood,Seafood,Frozen vegetables,0.7290165429374439
+hand sanitizer moisturizing,Personal care products,Dyeing and tanning extracts,0.5560955050803263
+oats quick,Cereal and pulse products,Nuts and seeds,0.6244319841846957
+irish soda bread,Bread and bakery products,Bread and bakery products,0.7080408090047106
+candles oil liquid glow non edible,Waxes and oils,Non edible animal products,0.7349996275297496
+mushroom maitake vegetables,Fresh vegetables,Dried vegetables,0.7233021753793643
+lasagna pasta sheets dry dry goods,Prepared and preserved foods,Dried vegetables,0.7687290053452855
+cacao powder raw superfoods,Chocolate and sugars and sweeteners and confectionary products,Dried organic vegetables,0.6928766416247218
+capri sgr wafer,Chocolate and sugars and sweeteners and confectionary products,Discrete semiconductor devices,0.3181657007864684
+bf ranch oz,Meat and poultry products,Dairy products and eggs,0.41662863927557287
+nd white russian save tobacco cigars,Tobacco and smoking products and substitutes,Tobacco and smoking products and substitutes,0.6715896928190118
+wheat sandwich rolls,Bread and bakery products,Bread and bakery products,0.7236612863405619
+jalapeno,Fresh vegetables,Canned or jarred vegetables,0.5668280858787439
+foil sheet paper goods cleaning supplies,Domestic kitchenware and kitchen supplies,Paper products,0.795890650455722
+ground chicken frozen,Meat and poultry products,Frozen vegetables,0.851253567147943
+vol pack gal condiments,Seasonings and preservatives,Fresh vegetables,0.5025802912303099
+meow mx tc tuna,Domestic pet products,Seafood,0.3577360213339382
+blueberry granola flax lbs lbs,Prepared and preserved foods,Dried organic fruit,0.6333466984973017
+condiments,Seasonings and preservatives,Seasonings and preservatives,0.6930600503670348
+fresh produce vege,Fresh vegetables,Fresh vegetables,0.8580308740201372
+scamp grouper grouper,Seafood,Seafood,0.38928245520304616
+guest checks aj paper non food items,Paper products,Paper products,0.6832700941197415
+nuts walnut shelled,Nuts and seeds,Nuts and seeds,0.7569092899454258
+tuna yellowfin tuna,Seafood,Seafood,0.6149525164361218
+paper hardware bag,Industrial food and beverage equipment,Paper products,0.7524899055545284
+salad manz olives,Canned or jarred vegetables,Fresh vegetables,0.6744760222432332
+dart clear straw slotted lid drink containers lids,Industrial food and beverage equipment,Containers and storage,0.6590033590232173
+square party tray trays boxes,Containers and storage,Containers and storage,0.6663224160880835
+mild chorizo meat seafood,Meat and poultry products,Seafood,0.8044480872056714
+signature van,Dairy products and eggs,Mail and cargo transport,0.3891851743080506
+potato sweet sticks potatoes,Dried vegetables,Fresh vegetables,0.7695443511752278
+lb white bag paper non food items,Paper products,Paper products,0.717005717542555
+chile arbol lb,Fresh vegetables,Dried vegetables,0.5060473704413163
+barilla pasta linguine db grocery,Prepared and preserved foods,Canned or jarred vegetables,0.6033029791181841
+anti diarrheal multi dose hbc misc toys,Drugs affecting the gastrointestinal system,Anti infective drugs,0.6085871175534807
+chayote,Fresh vegetables,Pureed fruit,0.4434456424837848
+pepperoni,Prepared and preserved foods,Canned or jarred vegetables,0.5137209491846084
+satur farm dressing white truff,Prepared and preserved foods,Dried organic vegetables,0.4652236388820326
+x paper hinge paper non food items,Paper products,Paper products,0.7976678670750503
+tamarind concentrate condiments bases,Seasonings and preservatives,Dried vegetables,0.6602912705493404
+pennant deluxe corn muffin mix flour pasta starches,Cereal and pulse products,Dried vegetables,0.7075775027456112
+sour cream,Dairy products and eggs,Frozen fruit,0.6677285974734629
+sugar babies gum cough drops candy,Chocolate and sugars and sweeteners and confectionary products,Chocolate and sugars and sweeteners and confectionary products,0.6656293077217823
+oz wht food cont count paper goods cleaning supplies,Paper products,Packing supplies,0.7318260969588557
+ff hazelnut creamer,Dairy products and eggs,Chocolate and sugars and sweeteners and confectionary products,0.49487300476062496
+mayonnaise hellman gallon,Dairy products and eggs,Canned or jarred vegetables,0.5055268791066762
+blueberries pint pint,Fresh fruits,Pureed fruit,0.6066366743367558
+ob sugg sub griller kabob kit tray zuc red g produce,Prepared and preserved foods,Dried vegetables,0.500385209901352
+organic beans green beans,Organic fresh vegetables,Dried organic vegetables,0.8572612782700028
+onion red,Fresh vegetables,Dried vegetables,0.6829360982372564
+snapper caribbean lb snapper,Seafood,Seafood,0.48923374233079603
+cod fillet skin cod,Seafood,"Drugs affecting the ears, eye, nose and skin",0.5210615931964521
+green olives olives,Canned or jarred vegetables,Dried vegetables,0.7198124839904443
+juicy juice cherry,Beverages,Fresh fruits,0.7438072027264696
+cheese garlic toast retail frozen food,Prepared and preserved foods,Frozen vegetables,0.8391063555854249
+yeast fresh frozen,Bread and bakery products,Frozen fruit,0.8202706828056306
+deans ic bar crunch,Chocolate and sugars and sweeteners and confectionary products,Fabricated bar stock assemblies,0.4300591026438543
+salted lb pail fish,Seafood,Dried vegetables,0.6648188276230904
+maku,Beverages,Thoroughfares,0.12650438338013875
+t shirt plastic bags groceries,Containers and storage,Luggage and handbags and packs and cases,0.7015751461024298
+margarine cups dairy,Dairy products and eggs,Dairy products and eggs,0.7518651818510771
+nd bugler oz ryo tin tobacco cigars,Tobacco and smoking products and substitutes,Tobacco and smoking products and substitutes,0.5920841087484713
+octopus baby,Seafood,Animal feed,0.48395119986503093
+locust bean gum,Chocolate and sugars and sweeteners and confectionary products,Dried fruit,0.5915912844348659
+chk lt tuna wtr,Seafood,Seafood,0.3253170251353144
+tecate oz pk,Industrial food and beverage equipment,Dried fruit,0.2809573179021932
+quaker grits old fashioned db grocery,Cereal and pulse products,Bread and bakery products,0.5608308197661448
+blackberries case,Fresh fruits,Dried fruit,0.5815821799176977
+snow crab clusters,Seafood,Dried cut blooms of low species or variety count flowers,0.6595297000559489
+ob sugg sub orig sunflower seeds oz snacks seeds chips bar,Nuts and seeds,Nuts and seeds,0.7502818297698088
+butternut squash noodle,Prepared and preserved foods,Dried vegetables,0.667930913565586
+barred snapper,Seafood,Seafood,0.38826455655998837
+bianco hot italian sausage lb meat seafood poultry turkey,Meat and poultry products,Meat and poultry products,0.776206658747897
+heavy cream,Dairy products and eggs,Frozen organic fruit,0.6119094693914026
+gc ew food strg st,Dairy products and eggs,Food and beverage industries,0.3714760806335495
+amys org cream tomato,Prepared and preserved foods,Frozen organic vegetables,0.6010497639635531
+granola cluster cinnamon oa,Cereal and pulse products,Dried fruit,0.599978722918227
+gourmet,Fresh vegetables,Restaurants and catering,0.6368532704605863
+eggs liquid cooler,Dairy products and eggs,Dairy products and eggs,0.6859048066477771
+sliced bologna retail meat fresh,Meat and poultry products,Fresh vegetables,0.7969520782935597
+apple red del fruits,Fresh fruits,Fresh fruits,0.7270113179334023
+mahi el sal mahi,Seafood,Seafood,0.4089364558476074
+kel k dbl choc,Chocolate and sugars and sweeteners and confectionary products,Pureed fruit,0.21140463584560587
+shelled pecans groceries,Nuts and seeds,Dried vegetables,0.656765782918945
+classic clean,Personal care products,Fresh cut greenery,0.5282158970630606
+nyquil original liquid,Medical facility products,Fluid and gas distribution,0.47817111174417176
+bio box paper non food items,Domestic kitchenware and kitchen supplies,Paper products,0.7647651791764514
+san pellegrino rossa cans beverages,Beverages,Beverages,0.5693262843410063
+potato yukon bo,Fresh vegetables,Dried vegetables,0.5052615423550426
+soy milk organic dairy,Dairy products and eggs,Dairy products and eggs,0.8458997960536454
+ob sugg sub dip french onion km oh retail cooler,Seasonings and preservatives,Fresh cut rose ,0.5870616942988711
+bun,Bread and bakery products,Bread and bakery products,0.4339762714591443
+white tea teaware,Beverages,Fresh cut floral bouquets,0.506900862566811
+sd zigzag white papers tobacco cigars,Tobacco and smoking products and substitutes,Tobacco and smoking products and substitutes,0.631034893743958
+lighter fluid paper non food items,Compounds and mixtures,Non edible animal products,0.7386556571953447
+jonathan l cake crumb original,Chocolate and sugars and sweeteners and confectionary products,Bread and bakery products,0.5389788854785291
+sausage patties meat,Meat and poultry products,Meat and poultry products,0.7113746198336639
+codfish oz loins fish,Seafood,Dried vegetables,0.5850818212149513
+fennel seeds,Seasonings and preservatives,Nuts and seeds,0.8091334759286074
+lettuce arcadia mix,Fresh vegetables,Fresh vegetables,0.6239385041730566
+gourmet,Fresh vegetables,Restaurants and catering,0.6368532704605863
+cheese feta large pail dairy,Dairy products and eggs,Dairy products and eggs,0.745130840631066
+sharp ched cheese stick oz retail cooler,Dairy products and eggs,Fresh cut rose ,0.6331651589971979
+max hse french roast,Beverages,Fresh cut rose ,0.4496460437771567
+bell evans chickens fresh poultry,Meat and poultry products,Meat and poultry products,0.7524805543556898
+mango drink,Beverages,Frozen fruit,0.7267988451430477
+oz deli lid hd,Domestic kitchenware and kitchen supplies,Frozen fruit,0.5075840505826599
+sd o matic cig mach tobacco cigars,Tobacco and smoking products and substitutes,Tobacco and smoking products and substitutes,0.553635835070722
+french beans fresh produce,Fresh vegetables,Fresh vegetables,0.8415741994653646
+smoked flake sea salt salts spices,Seasonings and preservatives,Dried vegetables,0.7403943784756286
+brown sugar cubes specialty,Chocolate and sugars and sweeteners and confectionary products,Frozen organic fruit,0.7136641395576052
+reeses pb mini cup w pcs,Chocolate and sugars and sweeteners and confectionary products,Nuts and seeds,0.42506273370727765
+classico vodka sauce,Seasonings and preservatives,Canned or jarred fruit,0.5934633270745763
+chick peas garbanzo,Fresh vegetables,Canned or jarred vegetables,0.6222203840603517
+charlies round,Chocolate and sugars and sweeteners and confectionary products,Fresh cut rose ,0.3679311934896188
+macaroni salad dairy,Prepared and preserved foods,Frozen vegetables,0.7680154705362907
+ob sugg sub super pro max auto misc,Compounds and mixtures,Target and table games and equipment,0.4270620106225401
+powder whey edible,Compounds and mixtures,Dried organic fruit,0.709838163271629
+napkin white signature,Paper products,Fresh cut floral bouquets,0.5941787667819457
+beef tenderloins pc food service cooler,Meat and poultry products,Meat and poultry products,0.7228800414910687
+half half dairy,Dairy products and eggs,Dairy products and eggs,0.6949116920863955
+skt stb std box gum cough drops candy,Chocolate and sugars and sweeteners and confectionary products,Chocolate and sugars and sweeteners and confectionary products,0.47262257419914805
+os juice cocktail,Beverages,Frozen fruit,0.581194566076652
+cre c shampoo max db hbc,Personal care products,Non motorized cycles,0.29411362082514686
+foodservice,Fresh vegetables,Food and beverage industries,0.5994906824884216
+fresh turkey fresh poultry,Meat and poultry products,Fresh vegetables,0.8712788399264147
+thai home curry paste green sauces curries,Seasonings and preservatives,Fresh vegetables,0.7174633161179967
+pump filter diesel auto misc,Cleaning and janitorial supplies,Motor vehicles,0.6491036041420544
+pan liners paper non food items,Paper products,Paper products,0.7129335794155468
+tuna chunk light water,Seafood,Fresh vegetables,0.651714172821344
+kelp noodles refrigerated,Prepared and preserved foods,Dried vegetables,0.7280445644715332
+oolong tea teaware,Beverages,Beverages,0.40879852402330213
+avocado firm ct,Fresh fruits,Fresh cut rose ,0.5374092965552537
+coffeemate vanilla,Dairy products and eggs,Chocolate and sugars and sweeteners and confectionary products,0.49143908397070046
+scotts hamburg pork,Meat and poultry products,Seafood,0.5389276721411093
+wi swisher blk grape singles tobacco cigars,Tobacco and smoking products and substitutes,Tobacco and smoking products and substitutes,0.5767136719004535
+roma cajun seasoning,Seasonings and preservatives,Seasonings and preservatives,0.5720643802251302
+olives w sicilian herbs vegetables,Canned or jarred vegetables,Dried vegetables,0.8039756730825499
+pepto bismol tablets hbc misc toys,Personal care products,Toys and games,0.3546294306712712
+cups french fry large,Containers and storage,Frozen vegetables,0.646293765615295
+fresh,Fresh fruits,Fresh vegetables,0.8718844038306913
+anise seed,Nuts and seeds,Nuts and seeds,0.726103762720558
+larabar cherry pie,Prepared and preserved foods,Pureed fruit,0.5885561233141351
+italian parsley fresh produce,Seasonings and preservatives,Fresh vegetables,0.8288585019647835
+gm raisin nut bran,Cereal and pulse products,Nuts and seeds,0.7137157766873446
+clam juice case shellfish,Seafood,Fresh vegetables,0.6668928849239665
+milk buttermilk,Dairy products and eggs,Dairy products and eggs,0.6926769033564668
+canned water chestnut,Canned or jarred vegetables,Canned or jarred organic fruit,0.734150315088681
+soft taco dinner kit grocery food items,Prepared and preserved foods,Bread and bakery products,0.7337424640089166
+bacon indiana sausage,Meat and poultry products,Frozen vegetables,0.5775825269274264
+pollack fillet skin fish,Seafood,Seafood,0.5856392927209731
+rod reel mahi fillet,Seafood,Seafood,0.4313761985438238
+karat custom print castle pines colors oz pet cold cup custom print,Containers and storage,Fresh cut blooms of high species or variety count flowers,0.6557477664515439
+sd cope long cut wintergreen tobacco cigars,Tobacco and smoking products and substitutes,Tobacco and smoking products and substitutes,0.6919742321327943
+backyard b sauce backyard blond,Seasonings and preservatives,Fresh vegetables,0.5731545308363499
+spice caraway seeds shaker edible,Seeds and bulbs and seedlings and cuttings,Nuts and seeds,0.7604139525100607
+bananas ot fruit,Fresh fruits,Dried fruit,0.8167512454290737
+egg cs cage free,Dairy products and eggs,Dairy products and eggs,0.54689455117333
+hc chicken marinara,Prepared and preserved foods,Canned or jarred vegetables,0.595473143639209
+lm,Prepared and preserved foods,Lamps and lightbulbs and lamp components,0.2935269754649963
+bags garbage clear strong non edible,Cleaning and janitorial supplies,Non edible animal products,0.7673297351884953
+bread butter pickles ba,Bread and bakery products,Bread and bakery products,0.712869803314545
+snapper snapper,Seafood,Seafood,0.4526827891670864
+shrimp gulf blk skin shrimp,Seafood,Seafood,0.6687201426042885
+carrots approx lb,Fresh vegetables,Dried vegetables,0.6133768374013532
+carrots baby peeled cello lb bag bag,Fresh vegetables,Dried vegetables,0.6504147712487818
+frozen donuts mini powdered,Prepared and preserved foods,Frozen fruit,0.7730630764324141
+lb frozen turkeys turkey,Meat and poultry products,Frozen vegetables,0.7218892194782948
+mc raspberry extract,Seasonings and preservatives,Dried fruit,0.6084936969986993
+chunk white water,Seafood,Fresh cut rose ,0.6529659869640223
+hazelnut milk original liquids beverages,Dairy products and eggs,Chocolate and sugars and sweeteners and confectionary products,0.7680769296306885
+rosemary fresh,Seasonings and preservatives,Fresh vegetables,0.8051934058237308
+butter chips foil wr,Dairy products and eggs,Nuts and seeds,0.5705079731377513
+potatoe chips large oz,Prepared and preserved foods,Frozen organic fruit,0.5934894551704865
+general tso chicken retail frozen food,Prepared and preserved foods,Frozen vegetables,0.7694549114110005
+irish moss powder special order items,Beverages,Dried cut blooms of high species or variety count flowers,0.6541864236127615
+rojo lb,Cereal and pulse products,Dried vegetables,0.3011526548435169
+stb sub gum cough drops candy,Chocolate and sugars and sweeteners and confectionary products,Chocolate and sugars and sweeteners and confectionary products,0.5446256066336215
+squash buttercup,Fresh vegetables,Pureed fruit,0.5323330499539554
+cheddar hard salami retail cooler,Meat and poultry products,Fresh vegetables,0.6442044080569072
+muffins double yogurt bakery,Bread and bakery products,Bread and bakery products,0.7808762037141312
+pasta ravioli brd cheese ck frozen,Prepared and preserved foods,Frozen vegetables,0.7262212350089023
+maryland crab soup canned goods,Seafood,Canned or jarred vegetables,0.7342729445797412
+veal square cut chuck,Meat and poultry products,Fresh cut rose ,0.6414890020563424
+ia camel snus frost large pch tobacco cigars,Tobacco and smoking products and substitutes,Tobacco and smoking products and substitutes,0.6474873402593059
+gc basting brush,Domestic kitchenware and kitchen supplies,Grinding and polishing and smoothing materials,0.3905739649003626
+yakisoba noodles chicken grocery food items,Prepared and preserved foods,Frozen vegetables,0.755483019349244
+pork potsticker amoy groceries,Meat and poultry products,Canned or jarred vegetables,0.5265595708280495
+margarita cocktail mix beverages,Beverages,Beverages,0.7459347840402215
+tuna tuna,Seafood,Seafood,0.6751316080055355
+oz mm white dome coffee lid cs,Domestic kitchenware and kitchen supplies,Fresh cut rose ,0.552813761278761
+mussel meat frozen seafood,Seafood,Seafood,0.838585037810461
+capers nonpareil imported,Prepared and preserved foods,Canned or jarred vegetables,0.506012230330028
+red onion jumbo,Fresh vegetables,Dried vegetables,0.6575325392981498
+mozzarella cheese loaf w m cheese,Dairy products and eggs,Bread and bakery products,0.6462941415771639
+bf ribeye roll l heavys food service cooler,Meat and poultry products,Industrial food and beverage equipment,0.5464855032753985
+chef knife paper non food items,Domestic kitchenware and kitchen supplies,Non edible animal products,0.7005916796984092
+cheese qtrs dairy,Dairy products and eggs,Dairy products and eggs,0.6870825254908433
+tuff gards bun pan rack cover bags,Domestic kitchenware and kitchen supplies,Bedclothes and table and kitchen linen and towels,0.5126203892852164
+la frieda oz signature burger fresh beef cuts,Meat and poultry products,Fresh cut rose ,0.6672538370800419
+dispenser roll cutter napkins dispensers,Domestic kitchenware and kitchen supplies,Bedclothes and table and kitchen linen and towels,0.5661597625558169
+mahi ptn blk fish,Seafood,Seafood,0.46698977198265906
+gloves vinyl size large grocery,Medical apparel and textiles,Industrial laundry and dry cleaning equipment,0.6170936454398183
+fanta grape soda cans,Beverages,Canned or jarred fruit,0.668301192621034
+jo turkey ham lb,Meat and poultry products,Frozen vegetables,0.5336635420639626
+round black container w lids,Domestic kitchenware and kitchen supplies,Containers and storage,0.6057974661892325
+merlot italian juice wine,Beverages,Dried fruit,0.636090935273671
+fava beans frozen produce,Cereal and pulse products,Frozen vegetables,0.8237486107844862
+salmon p s de salmon,Seafood,Seafood,0.5205924439002879
+angus oz game meat,Prepared and preserved foods,Meat and poultry products,0.6179555364919006
+organic cherries row fruits,Organic fresh fruits,Organic fresh fruits,0.8912815540898196
+pizza self rising oz baking,Bread and bakery products,Bread and bakery products,0.688927607716518
+jumbo sis peanuts oz snacks seeds chips bar,Nuts and seeds,Nuts and seeds,0.7191331474561634
+oa ck salad,Seafood,Fresh vegetables,0.4759762813005334
+dinner napkins,Domestic kitchenware and kitchen supplies,Bedclothes and table and kitchen linen and towels,0.6434159874380802
+bc pot scallop,Prepared and preserved foods,Dried cut roses ,0.5442330565508197
+kind pb whl grn cls crl,Prepared and preserved foods,Moldings,0.20111319412719839
+baby clams,Seafood,Fresh vegetables,0.5693455548263127
+shrimp tail shrimp,Seafood,Seafood,0.6739739166640626
+milk almond original beverages,Beverages,Chocolate and sugars and sweeteners and confectionary products,0.7577771845541463
+libbey oz hi ball glass paper non food items,Domestic kitchenware and kitchen supplies,Paper products,0.6421954653223623
+carrots loose,Fresh vegetables,Dried vegetables,0.7366014391460416
+pie marker wire cut supplies,Domestic kitchenware and kitchen supplies,Electrical wire management devices and accessories and supplies,0.6819300109559567
+oyster ec great gun shellfish,Seafood,Seafood,0.6393728399871079
+shrimp white t shrimp,Seafood,Seafood,0.6627051189428576
+seedless watermelon ea,Fresh fruits,Pureed fruit,0.6341289086751853
+larabar protein appl,Prepared and preserved foods,Chocolate and sugars and sweeteners and confectionary products,0.42409398327010067
+ice crm vanilla food service frozen,Domestic kitchenware and kitchen supplies,Frozen fruit,0.7552165741811041
+restaurant style tortilla chips oz bags,Prepared and preserved foods,Bread and bakery products,0.6786943488956957
+sherry vinegar oil vinegar,Seasonings and preservatives,Dried vegetables,0.6673535846218352
+Percentage correct on first: 26.875%
+Percentage correct on second: 0.625%
+Percentage incorrect: 72.5%

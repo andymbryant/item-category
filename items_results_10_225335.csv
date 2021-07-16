@@ -1,0 +1,14 @@
+text,source_doc,expected,actual,score
+odwalla blue protein,Beverages,Frozen organic fruit,0.47832735962348444
+sd winston box cigarettes,Tobacco and smoking products and substitutes,Tobacco and smoking products and substitutes,0.5505209840527776
+vegan mozzerella shredded lb cheeses,Dairy products and eggs,Canned or jarred organic vegetables,0.6721786034538434
+earth balance soy free butter spread retail dairy alternatives retail,Dairy products and eggs,Dairy products and eggs,0.7824804117624253
+kohlrabi vegetables,Fresh vegetables,Fresh vegetables,0.7631053901869386
+race paper wrapper bamboo brand,Prepared and preserved foods,Paper products,0.7083165675076472
+bonito del norte olive oil seafood,Edible oils and fats,Seafood,0.6298237692310404
+string bean,Fresh vegetables,Nuts and seeds,0.45982256503677194
+nuts almonds slices blanched grocery,Nuts and seeds,Dried vegetables,0.7807463204719899
+baking soda,Bread and bakery products,Bread and bakery products,0.6389675039141461
+P,e,r,c,e,n,t,a,g,e, ,c,o,r,r,e,c,t, ,o,n, ,f,i,r,s,t,:, ,4,0,.,0,%
+P,e,r,c,e,n,t,a,g,e, ,c,o,r,r,e,c,t, ,o,n, ,s,e,c,o,n,d,:, ,0,.,0,%
+P,e,r,c,e,n,t,a,g,e, ,i,n,c,o,r,r,e,c,t,:, ,6,0,.,0,%

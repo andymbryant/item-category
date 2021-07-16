@@ -1,0 +1,412 @@
+Family,Description,Include
+10100000,Live animals,FALSE
+10110000,Domestic pet products,FALSE
+10120000,Animal feed,TRUE
+10130000,Animal containment and habitats,FALSE
+10140000,Saddlery and harness goods,TRUE
+10150000,Seeds and bulbs and seedlings and cuttings,TRUE
+10160000,Floriculture and silviculture products,TRUE
+10170000,Fertilizers and plant nutrients and herbicides,TRUE
+10190000,Pest control products,TRUE
+10200000,Live rose bushes,TRUE
+10210000,Live plants of high species or variety count flowers,TRUE
+10220000,Live plants of low species or variety count flowers,TRUE
+10230000,Live chrysanthemums,TRUE
+10300000,Fresh cut rose ,TRUE
+10310000,Fresh cut blooms of high species or variety count flowers,TRUE
+10320000,Fresh cut blooms of low species or variety count flowers,TRUE
+10330000,Fresh cut chrysanthemums,TRUE
+10340000,Fresh cut floral bouquets,TRUE
+10400000,Dried cut roses ,TRUE
+10410000,Dried cut blooms of high species or variety count flowers,TRUE
+10420000,Dried cut blooms of low species or variety count flowers,TRUE
+10430000,Dried cut chrysanthemums,TRUE
+10500000,Fresh cut greenery,TRUE
+11100000,Minerals and ores and metals,TRUE
+11110000,Earth and stone,TRUE
+11120000,Non edible plant and forestry products,TRUE
+11130000,Non edible animal products,TRUE
+11140000,Scrap and waste materials,FALSE
+11150000,Fibers and threads and yarns,TRUE
+11160000,Fabrics and leather materials,TRUE
+11170000,Alloys,TRUE
+11180000,Metal oxide,FALSE
+11190000,Metal waste and scrap,FALSE
+12130000,Explosive materials,FALSE
+12140000,Elements and gases,FALSE
+12160000,Additives,TRUE
+12170000,Colorants,TRUE
+12180000,Waxes and oils,TRUE
+12190000,Solvents,TRUE
+12350000,Compounds and mixtures,TRUE
+13100000,Rubber and elastomers,TRUE
+13110000,Resins and rosins and other resin derived materials,TRUE
+14100000,Paper materials,TRUE
+14110000,Paper products,TRUE
+14120000,Industrial use papers,TRUE
+15100000,Fuels,TRUE
+15110000,Gaseous fuels and additives,TRUE
+15120000,Lubricants and oils and greases and anti corrosives,TRUE
+15130000,Fuel for nuclear reactors,FALSE
+20100000,Mining and quarrying machinery and equipment,FALSE
+20110000,Well drilling and operation equipment,FALSE
+20120000,Oil and gas drilling and exploration equipment,FALSE
+20130000,Oil and gas drilling and operation materials,FALSE
+20140000,Oil and gas operating and production equipment,FALSE
+21100000,Agricultural and forestry and landscape machinery and equipment,FALSE
+21110000,Fishing and aquaculture equipment,TRUE
+22100000,Heavy construction machinery and equipment,FALSE
+23100000,Raw materials processing machinery,FALSE
+23110000,Petroleum processing machinery,FALSE
+23120000,Textile and fabric machinery and accessories,TRUE
+23130000,Lapidary machinery and equipment,FALSE
+23140000,Leatherworking repairing machinery and equipment,FALSE
+23150000,Industrial process machinery and equipment and supplies,FALSE
+23160000,Foundry machines and equipment and supplies,FALSE
+23180000,Industrial food and beverage equipment,TRUE
+23190000,Mixers and their parts and accessories,FALSE
+23200000,Mass transfer equipment,FALSE
+23210000,Electronic manufacturing machinery and equipment and accessories,FALSE
+23220000,Chicken processing machinery and equipment,FALSE
+23230000,Sawmilling and lumber processing machinery and equipment,FALSE
+23240000,Metal cutting machinery and accessories,FALSE
+23250000,Metal forming machinery and accessories,FALSE
+23260000,Rapid prototyping machinery and accessories,FALSE
+23270000,Welding and soldering and brazing machinery and accessories and supplies,FALSE
+23280000,Metal treatment machinery,FALSE
+23290000,Industrial machine tools,FALSE
+23300000,Wire machinery and equipment,FALSE
+24100000,Material handling machinery and equipment,FALSE
+24110000,Containers and storage,TRUE
+24120000,Packaging materials,TRUE
+24130000,Industrial refrigeration,FALSE
+24140000,Packing supplies,TRUE
+25100000,Motor vehicles,FALSE
+25110000,Marine transport,FALSE
+25120000,Railway and tramway machinery and equipment,FALSE
+25130000,Aircraft,FALSE
+25150000,Spacecraft,FALSE
+25160000,Non motorized cycles,FALSE
+25170000,Transportation components and systems,FALSE
+25180000,Vehicle bodies and trailers,FALSE
+25190000,Transportation services equipment,FALSE
+25200000,Aerospace systems and components and equipment,FALSE
+26100000,Power sources,FALSE
+26110000,Batteries and generators and kinetic power transmission,FALSE
+26120000,Electrical wire and cable and harness,FALSE
+26130000,Power generation,FALSE
+26140000,Atomic and nuclear energy machinery and equipment,FALSE
+27110000,Hand tools,TRUE
+27120000,Hydraulic machinery and equipment,FALSE
+27130000,Pneumatic machinery and equipment,FALSE
+27140000,Automotive specialty tools,FALSE
+30100000,Structural components and basic shapes,FALSE
+30110000,Concrete and cement and plaster,FALSE
+30120000,Roads and landscape,FALSE
+30130000,Structural building products,FALSE
+30140000,Insulation,FALSE
+30150000,Exterior finishing materials,FALSE
+30160000,Interior finishing materials,FALSE
+30170000,Doors and windows and glass,FALSE
+30180000,Plumbing fixtures,FALSE
+30190000,Construction and maintenance support equipment,FALSE
+30200000,Prefabricated structures,FALSE
+30220000,Permanent structures,FALSE
+30230000,Portable Structures,FALSE
+30240000,Portable Structure Building Components,FALSE
+30250000,Underground mining structures and materials,FALSE
+30260000,Structural materials,FALSE
+31100000,Castings and casting assemblies,FALSE
+31110000,Extrusions,FALSE
+31120000,Machined castings,FALSE
+31130000,Forgings,FALSE
+31140000,Moldings,FALSE
+31150000,Rope and chain and cable and wire and strap,TRUE
+31160000,Hardware,TRUE
+31170000,Bearings and bushings and wheels and gears,FALSE
+31180000,Packings glands boots and covers,FALSE
+31190000,Grinding and polishing and smoothing materials,FALSE
+31200000,Adhesives and sealants,TRUE
+31210000,Paints and primers and finishes,TRUE
+31220000,Dyeing and tanning extracts,TRUE
+31230000,Machined raw stock,FALSE
+31240000,Industrial optics,FALSE
+31250000,Pneumatic and hydraulic and electric control systems,FALSE
+31260000,Housings and cabinets and casings,FALSE
+31270000,Machine made parts,TRUE
+31280000,Stampings and sheet components,FALSE
+31290000,Machined extrusions,FALSE
+31300000,Machined forgings,FALSE
+31310000,Fabricated pipe assemblies,FALSE
+31320000,Fabricated bar stock assemblies,FALSE
+31330000,Fabricated structural assemblies,FALSE
+31340000,Fabricated sheet assemblies,FALSE
+31350000,Fabricated tube assemblies,FALSE
+31360000,Fabricated plate assemblies,FALSE
+31370000,Refractories,FALSE
+31380000,Magnets and magnetic materials,FALSE
+31390000,Machinings,FALSE
+31400000,Gaskets,FALSE
+31410000,Seals,FALSE
+31420000,Sintered parts,FALSE
+32100000,Printed circuits and integrated circuits and microassemblies,FALSE
+32110000,Discrete semiconductor devices,FALSE
+32120000,Passive discrete components,FALSE
+32130000,Electronic hardware and component parts and accessories,FALSE
+32140000,Electron tube devices and accessories,FALSE
+32150000,Automation control devices and components and accessories,FALSE
+39100000,Lamps and lightbulbs and lamp components,TRUE
+39110000,Lighting Fixtures and Accessories,TRUE
+39120000,Electrical equipment and components and supplies,TRUE
+39130000,Electrical wire management devices and accessories and supplies,TRUE
+40100000,Heating and ventilation and air circulation,FALSE
+40140000,Fluid and gas distribution,FALSE
+40150000,Industrial pumps and compressors,FALSE
+40160000,Industrial filtering and purification,FALSE
+40170000,Pipe piping and pipe fittings,FALSE
+40180000,Tubes tubing and tube fittings,FALSE
+41100000,Laboratory and scientific equipment,FALSE
+41110000,Measuring and observing and testing instruments,TRUE
+41120000,Laboratory supplies and fixtures,TRUE
+42120000,Veterinary equipment and supplies,TRUE
+42130000,Medical apparel and textiles,TRUE
+42140000,Patient care and treatment products and supplies,TRUE
+42150000,Dental equipment and supplies,TRUE
+42160000,Dialysis equipment and supplies,TRUE
+42170000,Emergency and field medical services products,TRUE
+42180000,Patient exam and monitoring products,TRUE
+42190000,Medical facility products,TRUE
+42200000,Medical diagnostic imaging and nuclear medicine products,FALSE
+42210000,Independent living aids for the physically challenged,FALSE
+42220000,Intravenous and arterial administration products,FALSE
+42230000,Clinical nutrition,TRUE
+42240000,Orthopedic and prosthetic and sports medicine products,TRUE
+42250000,Physical and occupational therapy and rehabilitation products,TRUE
+42260000,Postmortem and mortuary equipment and supplies,FALSE
+42270000,Respiratory and anesthesia and resuscitation products,TRUE
+42280000,Medical sterilization products,TRUE
+42290000,Surgical products,TRUE
+42300000,Medical training and education supplies,TRUE
+42310000,Wound care products,TRUE
+42320000,Orthopedic surgical implants,TRUE
+43190000,Communications Devices and Accessories,TRUE
+43200000,Components for information technology or broadcasting or telecommunications,TRUE
+43210000,Computer Equipment and Accessories,TRUE
+43220000,Data Voice or Multimedia Network Equipment or Platforms and Accessories,TRUE
+43230000,Software,FALSE
+44100000,Office machines and their supplies and accessories,FALSE
+44110000,Office and desk accessories,TRUE
+44120000,Office supplies,TRUE
+45100000,Printing and publishing equipment,TRUE
+45110000,Audio and visual presentation and composing equipment,FALSE
+45120000,Photographic or filming or video equipment,TRUE
+45130000,Photographic and recording media,TRUE
+45140000,Photographic filmmaking supplies,TRUE
+46100000,Light weapons and ammunition,FALSE
+46110000,Conventional war weapons,FALSE
+46120000,Missiles,FALSE
+46130000,Rockets and subsystems,FALSE
+46140000,Launchers,FALSE
+46150000,Law enforcement,FALSE
+46160000,Public safety and control,FALSE
+46170000,Security surveillance and detection,FALSE
+46180000,Personal safety and protection,TRUE
+46190000,Fire protection,FALSE
+47100000,Water and wastewater treatment supply and disposal,FALSE
+47110000,Industrial laundry and dry cleaning equipment,FALSE
+47120000,Janitorial equipment,TRUE
+47130000,Cleaning and janitorial supplies,TRUE
+48100000,Institutional food services equipment,TRUE
+48110000,Vending machines,FALSE
+48120000,Gambling or wagering equipment,FALSE
+49100000,Collectibles and awards,FALSE
+49120000,Camping and outdoor equipment and accessories,TRUE
+49130000,Fishing and hunting equipment,TRUE
+49140000,Watersports equipment,FALSE
+49150000,Winter sports equipment,FALSE
+49160000,Field and court sports equipment,FALSE
+49170000,Gymnastics and boxing equipment,FALSE
+49180000,Target and table games and equipment,FALSE
+49200000,Fitness equipment,FALSE
+49210000,Other sports,FALSE
+49220000,Sports equipment and accessories,TRUE
+49240000,Recreation and playground and swimming and spa equipment and supplies,FALSE
+50100000,Nuts and seeds,TRUE
+50110000,Meat and poultry products,TRUE
+50120000,Seafood,TRUE
+50130000,Dairy products and eggs,TRUE
+50150000,Edible oils and fats,TRUE
+50160000,Chocolate and sugars and sweeteners and confectionary products,TRUE
+50170000,Seasonings and preservatives,TRUE
+50180000,Bread and bakery products,TRUE
+50190000,Prepared and preserved foods,TRUE
+50200000,Beverages,TRUE
+50210000,Tobacco and smoking products and substitutes,TRUE
+50220000,Cereal and pulse products,TRUE
+50300000,Fresh fruits,TRUE
+50310000,Organic fresh fruits,TRUE
+50320000,Dried fruit,TRUE
+50330000,Dried organic fruit,TRUE
+50340000,Frozen fruit,TRUE
+50350000,Frozen organic fruit,TRUE
+50360000,Canned or jarred fruit,TRUE
+50370000,Canned or jarred organic fruit,TRUE
+50380000,Pureed fruit,TRUE
+50400000,Fresh vegetables,TRUE
+50410000,Organic fresh vegetables,TRUE
+50420000,Dried vegetables,TRUE
+50430000,Dried organic vegetables,TRUE
+50440000,Frozen vegetables,TRUE
+50450000,Frozen organic vegetables,TRUE
+50460000,Canned or jarred vegetables,TRUE
+50470000,Canned or jarred organic vegetables,TRUE
+51100000,Anti infective drugs,FALSE
+51110000,Antineoplastic agents,FALSE
+51120000,Cardiovascular drugs,FALSE
+51130000,Hematolic drugs,FALSE
+51140000,Central nervous system drugs,FALSE
+51150000,Autonomic nervous system drugs,FALSE
+51160000,Drugs affecting the respiratory tract,FALSE
+51170000,Drugs affecting the gastrointestinal system,FALSE
+51180000,Hormones and hormone antagonists,FALSE
+51190000,Agents affecting water and electrolytes,FALSE
+51200000,Immunomodulating drugs,FALSE
+51210000,Miscellaneous drug categories,FALSE
+51240000,"Drugs affecting the ears, eye, nose and skin",FALSE
+51250000,Veterinary nutritional supplement,FALSE
+52100000,Floor coverings,FALSE
+52120000,Bedclothes and table and kitchen linen and towels,FALSE
+52130000,Window treatments,FALSE
+52140000,Domestic appliances,FALSE
+52150000,Domestic kitchenware and kitchen supplies,TRUE
+52160000,Consumer electronics,TRUE
+52170000,Domestic wall treatments,FALSE
+53100000,Clothing,TRUE
+53110000,Footwear,TRUE
+53120000,Luggage and handbags and packs and cases,FALSE
+53130000,Personal care products,TRUE
+53140000,Sewing supplies and accessories,TRUE
+54100000,Jewelry,TRUE
+54110000,Timepieces,TRUE
+54120000,Gemstones,TRUE
+55100000,Printed media,TRUE
+55110000,Electronic reference material,TRUE
+55120000,Signage and accessories,FALSE
+56100000,Accommodation furniture,FALSE
+56110000,Commercial and industrial furniture,FALSE
+56120000,Classroom and instructional and institutional furniture and fixtures,FALSE
+56130000,Merchandising furniture and accessories,FALSE
+60100000,Developmental and professional teaching aids and materials and accessories and supplies,FALSE
+60110000,Classroom decoratives and supplies,FALSE
+60120000,Arts and crafts equipment and accessories and supplies,FALSE
+60130000,Musical Instruments and parts and accessories,TRUE
+60140000,Toys and games,TRUE
+70100000,Fisheries and aquaculture,FALSE
+70110000,Horticulture,FALSE
+70120000,Livestock services,FALSE
+70130000,Land and soil preparation and management and protection,FALSE
+70140000,Crop production and management and protection,FALSE
+70150000,Forestry,FALSE
+70160000,Wildlife and flora,FALSE
+70170000,Water resources development and oversight,FALSE
+71100000,Mining services,FALSE
+71110000,Oil and gas exploration services,FALSE
+71120000,Well drilling and construction services,FALSE
+71130000,Oil and gas extraction and production enhancement services,FALSE
+71140000,Oil and gas restoration and reclamation services,FALSE
+71150000,Oil and gas data management and processing services,FALSE
+71160000,Oil and gas well project management services,FALSE
+72100000,Building and facility maintenance and repair services,FALSE
+72110000,Residential building construction services,FALSE
+72120000,Nonresidential building construction services,FALSE
+72140000,Heavy construction services,FALSE
+72150000,Specialized trade construction and maintenance services,FALSE
+73100000,Plastic and chemical industries,FALSE
+73110000,Wood and paper industries,FALSE
+73120000,Metal and mineral industries,FALSE
+73130000,Food and beverage industries,FALSE
+73140000,Fibers and textiles and fabric industries,FALSE
+73150000,Manufacturing support services,FALSE
+73160000,Machinery and transport equipment manufacture,FALSE
+73170000,Manufacture of electrical goods and precision instruments,FALSE
+73180000,Machining and processing services,FALSE
+76100000,Decontamination services,FALSE
+76110000,Cleaning and janitorial services,FALSE
+76120000,Refuse disposal and treatment,FALSE
+76130000,Toxic and hazardous waste cleanup,FALSE
+77100000,Environmental management,FALSE
+77110000,Environmental protection,FALSE
+77120000,Pollution tracking and monitoring and rehabilitation,FALSE
+77130000,Pollutants tracking and monitoring and rehabilitation services,FALSE
+78100000,Mail and cargo transport,FALSE
+78110000,Passenger transport,FALSE
+78120000,Material packing and handling,FALSE
+78130000,Storage,FALSE
+78140000,Transport services,FALSE
+78180000,Transportation repair or maintenance services,FALSE
+80100000,Management advisory services,FALSE
+80110000,Human resources services,FALSE
+80120000,Legal services,FALSE
+80130000,Real estate services,FALSE
+80140000,Marketing and distribution,FALSE
+80150000,Trade policy and services,FALSE
+80160000,Business administration services,FALSE
+81100000,Professional engineering services,FALSE
+81110000,Computer services,FALSE
+81120000,Economics,FALSE
+81130000,Statistics,FALSE
+81140000,Manufacturing technologies,FALSE
+81150000,Earth science services,FALSE
+81160000,Information Technology Service Delivery,FALSE
+82100000,Advertising,FALSE
+82110000,Writing and translations,FALSE
+82120000,Reproduction services,FALSE
+82130000,Photographic services,FALSE
+82140000,Graphic design,FALSE
+82150000,Professional artists and performers,FALSE
+83100000,Utilities,FALSE
+83110000,Telecommunications media services,FALSE
+83120000,Information services,FALSE
+84100000,Development finance,FALSE
+84110000,Accounting and bookkeeping services,FALSE
+84120000,Banking and investment,FALSE
+84130000,Insurance and retirement services,FALSE
+84140000,Credit agencies,FALSE
+85100000,Comprehensive health services,FALSE
+85110000,Disease prevention and control,FALSE
+85120000,Medical practice,FALSE
+85130000,Medical science research and experimentation,FALSE
+85140000,Alternative and holistic medicine,TRUE
+85150000,Food and nutrition services,FALSE
+85160000,Medical Surgical Equipment Maintenance Refurbishment and Repair Services,FALSE
+85170000,Death and dying support services,FALSE
+86100000,Vocational training,FALSE
+86110000,Alternative educational systems,FALSE
+86120000,Educational institutions,FALSE
+86130000,Specialized educational services,FALSE
+86140000,Educational facilities,FALSE
+90100000,Restaurants and catering,FALSE
+90110000,Hotels and lodging and meeting facilities,FALSE
+90120000,Travel facilitation,FALSE
+90130000,Performing arts,FALSE
+90140000,Commercial sports,FALSE
+90150000,Entertainment services,FALSE
+91100000,Personal appearance,FALSE
+91110000,Domestic and personal assistance,FALSE
+92100000,Public order and safety,FALSE
+92110000,Military services and national defense,FALSE
+92120000,Security and personal safety,FALSE
+93100000,Political systems and institutions,FALSE
+93110000,Socio political conditions,FALSE
+93120000,International relations,FALSE
+93130000,Humanitarian aid and relief,FALSE
+93140000,Community and social services,FALSE
+93150000,Public administration and finance services,FALSE
+93160000,Taxation,FALSE
+93170000,Trade policy and regulation,FALSE
+94100000,Work related organizations,FALSE
+94110000,Religious organizations,FALSE
+94120000,Clubs,FALSE
+94130000,Civic organizations and associations and movements,FALSE
+95100000,Land parcels,FALSE
+95110000,Thoroughfares,FALSE
